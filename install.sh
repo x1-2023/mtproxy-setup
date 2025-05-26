@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # MTProxy installer for Digital Ocean Ubuntu droplets
-# Usage: curl -sSL https://raw.githubusercontent.com/your-repo/install.sh | bash
+# Usage: curl -sSL https://raw.githubusercontent.com/trungpv1601/install.sh | bash
 
 set -e
 
