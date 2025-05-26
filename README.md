@@ -25,7 +25,7 @@
 **Copy and paste this command:**
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/trungpv1601/mtproxy-setup/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/x1-2023/mtproxy-setup/main/install.sh | bash
 ```
 
 **That's it!** 🎉
